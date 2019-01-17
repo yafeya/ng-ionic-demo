@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+export { XElement, XDocument, XObject, XAttribute, DelegateCommand, CommandRepository, InvokeCommandDirective, CommandDescriptor, CommandDescriptorRepository, CommandDescriptorExtensions, AppSettings, AppSettingItem, OptionRepositoryToken, OptionRepository, ResourceDictionary, ResourceHolder, DefaultLoggerFactory, LogLevel, DebugLogger, DebugLoggerProvider, Log4JsLogger, Log4JsLoggerProvider, LoggerFactoryExtensions, LoggingExceptionHandler, HttpClient, ElectronUtil, Guid, StringBuilder, XmlConverter, Clipboard, JsonToken, WindowSizeWatcherToken, WindowSizeWatcher, Collection, Enumerable, List, Grouping, EnumerableIterator, NamedDictionary, Dictionary, ForEach, Sort, FindAll, FirstOrDefault, IsEmpty, Any, Max, Min, OrderBy, OrderByDescending, Where, Select, ElementAt, GroupBy, ObservableCollection, AngularServiceProvider, ServiceLocator, IsDefined, IsObject, MergeDeep, Clone, CompareProperties, Delay, ActionRepository, Action, MessageMediator, ComponentCreatorToken, ComponentCreator, File, Directory, MessageMediatorToken, LoggerFactoryToken, ExceptionHandlerToken, CommandRepositoryToken, CommandDescriptorRepositoryToken, ActionRepositoryToken } from './components';
+export { SystemModule } from './system.module';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly95YWZleWEtc3lzdGVtLWNvbW1vbi8iLCJzb3VyY2VzIjpbImxpYi9zeXN0ZW0vaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLGdwQ0FBYyxjQUFjLENBQUM7QUFFN0IsNkJBQWMsaUJBQWlCLENBQUMiLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgKiBmcm9tICcuL2NvbXBvbmVudHMnO1xyXG5cclxuZXhwb3J0ICogZnJvbSAnLi9zeXN0ZW0ubW9kdWxlJzsiXX0=

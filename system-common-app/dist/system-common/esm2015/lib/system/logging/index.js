@@ -1,0 +1,13 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+export { DefaultLoggerFactory } from './DefaultLoggerFactory';
+export { LogLevel } from './LogLevel';
+export { DebugLogger } from './debug/DebugLogger';
+export { DebugLoggerProvider } from './debug/DebugLoggerProvider';
+export { Log4JsLogger } from './log4js/Log4JsLogger';
+export { Log4JsLoggerProvider } from './log4js/Log4JsLoggerProvider';
+export { LoggerFactoryExtensions } from './LoggerFactoryExtensions';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly95YWZleWEtc3lzdGVtLWNvbW1vbi8iLCJzb3VyY2VzIjpbImxpYi9zeXN0ZW0vbG9nZ2luZy9pbmRleC50cyJdLCJuYW1lcyI6W10sIm1hcHBpbmdzIjoiOzs7O0FBR0EscUNBQWMsd0JBQXdCLENBQUM7QUFFdkMseUJBQWMsWUFBWSxDQUFDO0FBQzNCLDRCQUFjLHFCQUFxQixDQUFDO0FBQ3BDLG9DQUFjLDZCQUE2QixDQUFDO0FBQzVDLDZCQUFjLHVCQUF1QixDQUFDO0FBQ3RDLHFDQUFjLCtCQUErQixDQUFDO0FBQzlDLHdDQUFjLDJCQUEyQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSAnLi9JTG9nZ2VyJztcclxuZXhwb3J0ICogZnJvbSAnLi9JTG9nZ2VyRmFjdG9yeSc7XHJcblxyXG5leHBvcnQgKiBmcm9tICcuL0RlZmF1bHRMb2dnZXJGYWN0b3J5JztcclxuZXhwb3J0ICogZnJvbSAnLi9JTG9nZ2VyUHJvdmlkZXInO1xyXG5leHBvcnQgKiBmcm9tICcuL0xvZ0xldmVsJztcclxuZXhwb3J0ICogZnJvbSAnLi9kZWJ1Zy9EZWJ1Z0xvZ2dlcic7XHJcbmV4cG9ydCAqIGZyb20gJy4vZGVidWcvRGVidWdMb2dnZXJQcm92aWRlcic7XHJcbmV4cG9ydCAqIGZyb20gJy4vbG9nNGpzL0xvZzRKc0xvZ2dlcic7XHJcbmV4cG9ydCAqIGZyb20gJy4vbG9nNGpzL0xvZzRKc0xvZ2dlclByb3ZpZGVyJztcclxuZXhwb3J0ICogZnJvbSAnLi9Mb2dnZXJGYWN0b3J5RXh0ZW5zaW9ucyc7Il19

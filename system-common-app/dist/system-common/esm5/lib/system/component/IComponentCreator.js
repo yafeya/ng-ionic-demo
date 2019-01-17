@@ -1,0 +1,22 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/**
+ * @record
+ */
+export function IComponentCreator() { }
+/** @type {?} */
+IComponentCreator.prototype.ViewContainer;
+/**
+ * Initialize
+ * @type {?}
+ */
+IComponentCreator.prototype.Initialize;
+/**
+ * Create a component by give type
+ * @type {?}
+ */
+IComponentCreator.prototype.CreateComponent;
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiSUNvbXBvbmVudENyZWF0b3IuanMiLCJzb3VyY2VSb290Ijoibmc6Ly95YWZleWEtc3lzdGVtLWNvbW1vbi8iLCJzb3VyY2VzIjpbImxpYi9zeXN0ZW0vY29tcG9uZW50L0lDb21wb25lbnRDcmVhdG9yLnRzIl0sIm5hbWVzIjpbXSwibWFwcGluZ3MiOiIiLCJzb3VyY2VzQ29udGVudCI6WyJpbXBvcnQgeyBJbmplY3RhYmxlLCBWaWV3Q29udGFpbmVyUmVmLCBDb21wb25lbnRGYWN0b3J5UmVzb2x2ZXIsIENvbXBvbmVudFJlZiwgVHlwZSB9IGZyb20gJ0Bhbmd1bGFyL2NvcmUnO1xyXG5cclxuZXhwb3J0IGludGVyZmFjZSBJQ29tcG9uZW50Q3JlYXRvciB7XHJcbiAgICByZWFkb25seSBWaWV3Q29udGFpbmVyOiBWaWV3Q29udGFpbmVyUmVmO1xyXG4gICAgLyoqXHJcbiAgICAgKiBJbml0aWFsaXplXHJcbiAgICAgKi9cclxuICAgIEluaXRpYWxpemUodmlld0NvbnRhaW5lcjogVmlld0NvbnRhaW5lclJlZiwgcmVzb2x2ZXI6IENvbXBvbmVudEZhY3RvcnlSZXNvbHZlcik6IHZvaWQ7XHJcblxyXG4gICAgLyoqXHJcbiAgICAgKiBDcmVhdGUgYSBjb21wb25lbnQgYnkgZ2l2ZSB0eXBlXHJcbiAgICAgKi9cclxuICAgIENyZWF0ZUNvbXBvbmVudChjb21wb25lbnRUeXBlOiBUeXBlPHt9Piwgdmlld0NvbnRhaW5lcj86IFZpZXdDb250YWluZXJSZWYpOiBDb21wb25lbnRSZWY8e30+O1xyXG59XHJcbiJdfQ==

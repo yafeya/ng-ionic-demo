@@ -1,0 +1,8 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+export { ResourceDictionary } from './ResourceDictionary';
+export { ResourceHolder } from './ResourceHolder';
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiaW5kZXguanMiLCJzb3VyY2VSb290Ijoibmc6Ly95YWZleWEtc3lzdGVtLWNvbW1vbi8iLCJzb3VyY2VzIjpbImxpYi9zeXN0ZW0vcmVzb3VyY2UvaW5kZXgudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6Ijs7OztBQUFBLG1DQUFjLHNCQUFzQixDQUFDO0FBQ3JDLCtCQUFjLGtCQUFrQixDQUFDIiwic291cmNlc0NvbnRlbnQiOlsiZXhwb3J0ICogZnJvbSAnLi9SZXNvdXJjZURpY3Rpb25hcnknO1xyXG5leHBvcnQgKiBmcm9tICcuL1Jlc291cmNlSG9sZGVyJztcclxuZXhwb3J0ICogZnJvbSAnLi9JUmVzb3VyY2VQcm92aWRlcic7Il19

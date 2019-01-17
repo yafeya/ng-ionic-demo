@@ -1,0 +1,21 @@
+{
+  "name": "yafeya-system-common",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^6.0.0-rc.0 || ^6.0.0",
+    "@angular/core": "^6.0.0-rc.0 || ^6.0.0"
+  },
+  "main": "bundles/yafeya-system-common.umd.js",
+  "module": "fesm5/yafeya-system-common.js",
+  "es2015": "fesm2015/yafeya-system-common.js",
+  "esm5": "esm5/yafeya-system-common.js",
+  "esm2015": "esm2015/yafeya-system-common.js",
+  "fesm5": "fesm5/yafeya-system-common.js",
+  "fesm2015": "fesm2015/yafeya-system-common.js",
+  "typings": "yafeya-system-common.d.ts",
+  "metadata": "yafeya-system-common.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}

@@ -1,0 +1,27 @@
+/**
+ * @fileoverview added by tsickle
+ * @suppress {checkTypes,extraRequire,uselessCode} checked by tsc
+ */
+/**
+ * @record
+ */
+export function ICommandDescriptorRepository() { }
+/** @type {?} */
+ICommandDescriptorRepository.prototype.Descriptors;
+/**
+ * Register a descriptor.
+ * @type {?}
+ */
+ICommandDescriptorRepository.prototype.Register;
+/**
+ * Remove a descriptor
+ * @type {?}
+ */
+ICommandDescriptorRepository.prototype.Remove;
+/**
+ * Remove descriptors by given expression
+ * @type {?}
+ */
+ICommandDescriptorRepository.prototype.RemoveRange;
+
+//# sourceMappingURL=data:application/json;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiSUNvbW1hbmREZXNjcmlwdG9yUmVwb3NpdG9yeS5qcyIsInNvdXJjZVJvb3QiOiJuZzovL3lhZmV5YS1zeXN0ZW0tY29tbW9uLyIsInNvdXJjZXMiOlsibGliL3N5c3RlbS9jb21tYW5kL0lDb21tYW5kRGVzY3JpcHRvclJlcG9zaXRvcnkudHMiXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsInNvdXJjZXNDb250ZW50IjpbImltcG9ydCB7IElDb21tYW5kRGVzY3JpcHRvciB9IGZyb20gJy4vSUNvbW1hbmREZXNjcmlwdG9yJztcclxuaW1wb3J0IHsgSUVudW1lcmFibGUgfSBmcm9tICcuLi9jb2xsZWN0aW9ucy9JRW51bWVyYWJsZSc7XHJcblxyXG5leHBvcnQgaW50ZXJmYWNlIElDb21tYW5kRGVzY3JpcHRvclJlcG9zaXRvcnkge1xyXG5cclxuICAgIHJlYWRvbmx5IERlc2NyaXB0b3JzOiBJRW51bWVyYWJsZTxJQ29tbWFuZERlc2NyaXB0b3I+O1xyXG5cclxuICAgIC8qKlxyXG4gICAgICogUmVnaXN0ZXIgYSBkZXNjcmlwdG9yLlxyXG4gICAgICovXHJcbiAgICBSZWdpc3RlcihkZXNjcmlwdG9yOiBJQ29tbWFuZERlc2NyaXB0b3IpOiBJQ29tbWFuZERlc2NyaXB0b3JSZXBvc2l0b3J5O1xyXG5cclxuICAgIC8qKlxyXG4gICAgICogUmVtb3ZlIGEgZGVzY3JpcHRvclxyXG4gICAgICovXHJcbiAgICBSZW1vdmUoZGVzY3JpcHRvcjogSUNvbW1hbmREZXNjcmlwdG9yKTogSUNvbW1hbmREZXNjcmlwdG9yUmVwb3NpdG9yeTtcclxuICAgIC8qKlxyXG4gICAgICogUmVtb3ZlIGRlc2NyaXB0b3JzIGJ5IGdpdmVuIGV4cHJlc3Npb25cclxuICAgICAqL1xyXG4gICAgUmVtb3ZlUmFuZ2UoZXhwcmVzc2lvbjogKGl0ZW06IElDb21tYW5kRGVzY3JpcHRvcikgPT4gYm9vbGVhbik6IHZvaWQ7XHJcbn0iXX0=
